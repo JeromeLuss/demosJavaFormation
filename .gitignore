@@ -1,0 +1,27 @@
+# Fichiers générés par Eclipse
+.classpath
+.project
+.settings/
+
+# Dossiers générés par les IDE
+.metadata/
+bin/
+
+# Fichiers de sauvegarde de l'éditeur
+*~
+
+# Fichiers temporaires
+*.swp
+*.bak
+
+# Fichiers de configuration de l'IDE
+/.factorypath
+/.project
+/.settings
+
+# Fichiers de configuration de l'éditeur
+*.editorconfig
+
+# Fichiers de configuration système
+.DS_Store
+Thumbs.db
